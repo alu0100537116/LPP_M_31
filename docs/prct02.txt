@@ -1,1 +1,3 @@
-'Trabajo en equipo con git'
+'Trabajo en equipo con git'.
+Compilacion: Se debe generar un nuevo fichero, que sera el ejecutado.
+Interpretacion: Sin generar ficheros, un interprete interpretara el fichero linea a linea.
