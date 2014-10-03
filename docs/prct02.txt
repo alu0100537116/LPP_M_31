@@ -1,1 +1,6 @@
-'Trabajo en equipo con git'
+'Trabajo en equipo con git'.
+Compilacion: Se debe generar un nuevo fichero, que sera el ejecutado.
+Interpretacion: Sin generar ficheros, un interprete interpretara el fichero linea a linea.
+
+El fichero helloWorld.sh esta escrito en lenguaje basado en guiones(scripts).
+El fichero helloWorld.rb esta escrito en ruby, que es un lenguaje interpretado.La linea #!bin/sh, hace referencia a la terminal que va a ejecutar dicho scriptva a ser la shell.
